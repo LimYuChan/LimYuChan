@@ -7,6 +7,9 @@ Public repo는 주로 새로운 기술을 공부하거나 그동안 사용해본
 🤔더 나은 코드를 위해 계속해서 코드 수정을 해나갈 생각입니다.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LimYuChan&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLimYuChan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!--
 **LimYuChan/LimYuChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
